@@ -1,4 +1,4 @@
-KDE Dotfiles
+# Backup of my KDE Needs
 
 This repository contains configuration files (dotfiles) for customizing KDE Plasma desktop environment.
 Files
